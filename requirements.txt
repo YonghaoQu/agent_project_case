@@ -1,0 +1,6 @@
+langchain
+langchain_community
+dashscope
+chromadb
+langchain_chroma
+streamlit
