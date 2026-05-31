@@ -4,3 +4,4 @@ dashscope
 chromadb
 langchain_chroma
 streamlit
+pypdf
